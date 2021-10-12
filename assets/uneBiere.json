@@ -1,0 +1,10 @@
+{
+    "data": {
+            "id_biere": 1,
+            "image": "http://lorempixel.com/200/200/sports/3",
+            "nom": "laborum id",
+            "brasserie": "Panzent",
+            "description": "Cupidatat aliquip irure aute consequat do ipsum mollit. Irure excepteur nostrud consectetur qui exercitation aliquip sunt amet enim occaecat deserunt aliqua. Do consequat adipisicing magna excepteur pariatur.\r\n",
+            "date_ajout": "2014-05-02T10:40:27 +04:00"
+    }
+}
